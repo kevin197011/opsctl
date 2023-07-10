@@ -8,3 +8,5 @@ gemspec
 gem "rake"
 
 gem "rubocop"
+
+gem "git"
