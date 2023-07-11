@@ -14,5 +14,5 @@ task :run do
   g.add(all: true)
   g.commit_all("update.")
   g.push
-  g.push(g.remote("origin", "main"))
+  # g.push(g.remote("origin", "main"))
 end
